@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qsdvaivkkw50dxfi?svg=true)](https://ci.appveyor.com/project/Anasstaisha/datapatterns))
+[![Build status](https://ci.appveyor.com/api/projects/status/qsdvaivkkw50dxfi?svg=true)](https://ci.appveyor.com/project/Anasstaisha/datapatterns)
 
 
 # Задача №1: заказ доставки карты (изменение даты)
